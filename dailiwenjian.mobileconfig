@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
-			<key>CaptiveBypass</key>
 			<false/>
+			<key>CaptiveBypass</key>
+			<True/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -38,7 +38,7 @@
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>lalala5G</string>
+			<string>ShawGo</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
